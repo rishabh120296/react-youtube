@@ -6,3 +6,5 @@ export const COMMENT_API =
 
 export const SEARCH_API =
   "https://suggestqueries-clients6.youtube.com/complete/search?ds=yt&client=firefox&q=";
+
+export const CHAT_OFFSET = 10;

@@ -1,7 +1,7 @@
 const Comment = (props) => {
   //console.log(props?.info?.name);
   return (
-    <div className="flex justify-between m-2 bg-slate-200 ">
+    <div className="flex justify-between m-2 bg-slate-200 w-full ">
       <div>
         <div>{props?.info?.name}</div>
         <div>{props?.info?.text}</div>
